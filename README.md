@@ -188,16 +188,12 @@ Confidence:
 ## 📂 Project Structure
 
 sentiment-analysis/
-│
-├── data/
-│   └── README.md
-│
+│   
 ├── notebooks/
 │   └── sentiment_analysis.ipynb
 │
 ├── models/
-│   ├── model.pkl
-│   └── vectorizer.pkl
+│   └── sentiment_pipeline.pkl 
 │
 ├── app.py
 ├── requirements.txt
