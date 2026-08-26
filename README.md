@@ -6,7 +6,7 @@ The project covers the complete machine learning workflow — from text preproce
 
 ## 🚀 Live Demo
 
-👉 "Try the Live Demo" (YOUR_STREAMLIT_APP_URL_HERE)
+👉 "Try the Live Demo" https://sentiment-analysis-fswgshc8pqe4hegzajdzsb.streamlit.app/
 
 Enter any movie review and the application predicts its sentiment along with a confidence score.
 
