@@ -212,7 +212,7 @@ sentiment-analysis/
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Manav-bidlan/sentiment-analysis
 cd sentiment-analysis
 
 Create a virtual environment:
