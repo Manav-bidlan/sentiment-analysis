@@ -187,6 +187,7 @@ Confidence:
 
 ## 📂 Project Structure
 
+```text
 sentiment-analysis/
 │   
 ├── notebooks/
@@ -199,7 +200,7 @@ sentiment-analysis/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
+```
 «File names may differ depending on the final project structure.»
 
 ---
